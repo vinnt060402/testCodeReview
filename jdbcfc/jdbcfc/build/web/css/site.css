@@ -1,0 +1,28 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 13, 2023, 1:37:09 PM
+    Author     : PHT
+*/
+.header{
+    background-color: whitesmoke;
+    border-bottom: 2pt solid red;
+}
+
+.footer{
+    background-color: whitesmoke;
+    border-top: 2pt solid red;
+}
+
+.title {
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+.content{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
