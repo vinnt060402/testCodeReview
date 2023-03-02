@@ -6,3 +6,4 @@
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <jsp:forward page="/home/index.do" />
+<h1>Hello world!</h1>
